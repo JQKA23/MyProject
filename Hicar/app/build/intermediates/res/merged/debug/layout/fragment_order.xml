@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark_blue"
+        android:gravity="center_horizontal"
+        android:padding="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:text="@string/orderlist" />
+
+    </LinearLayout>
+	
+    <RelativeLayout
+        android:id="@+id/rl_daijia"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+	        android:gravity="center_vertical"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:drawableLeft="@drawable/smalldaijia"
+	        android:drawablePadding="10dp"
+	        android:textSize="16sp"
+	        android:textColor="@color/light_black"
+	        android:text="我的代驾订单" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/go" />
+
+    </RelativeLayout>
+    <View
+	    android:layout_width="match_parent"
+	    android:layout_height="0.1sp"
+	    android:background="@color/light_gray" />
+    <RelativeLayout
+        android:id="@+id/rl_rescue"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+	        android:gravity="center_vertical"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/light_black"
+	        android:drawableLeft="@drawable/smallrescue"
+	        android:drawablePadding="10dp"
+	        android:textSize="16sp"
+	        android:text="我的救援订单" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/go" />
+
+    </RelativeLayout>
+    <View
+	    android:layout_width="match_parent"
+	    android:layout_height="0.1sp"
+	    android:background="@color/light_gray" />
+    <RelativeLayout
+        android:id="@+id/rl_wash"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+	        android:gravity="center_vertical"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/light_black"
+	        android:drawableLeft="@drawable/smallwash"
+	        android:drawablePadding="10dp"
+	        android:textSize="16sp"
+	        android:text="我的洗车订单" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/go" />
+
+    </RelativeLayout>
+    <View
+	    android:layout_width="match_parent"
+	    android:layout_height="0.1sp"
+	    android:background="@color/light_gray" />
+    <RelativeLayout
+        android:id="@+id/rl_chewu"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <TextView
+	        android:gravity="center_vertical"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:drawableLeft="@drawable/smallchewu"
+	        android:drawablePadding="10dp"
+	        android:textColor="@color/light_black"
+	        android:textSize="16sp"
+	        android:text="我的车务订单" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/go" />
+
+    </RelativeLayout>
+    <View
+	    android:layout_width="match_parent"
+	    android:layout_height="0.1sp"
+	    android:background="@color/light_gray" />
+
+</LinearLayout>

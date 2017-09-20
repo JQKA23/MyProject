@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/layout_driver_top"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/dark_blue"
+        android:padding="10dip" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="@drawable/btn_back" />
+    </FrameLayout>
+    <TextView
+         android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="只显示未处理违章信息"
+        android:textSize="14sp"
+        android:textColor="@color/light_black"
+        android:padding="10dp"
+        android:gravity="center"
+         />
+    <View 
+        android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/dark_gray" />
+    <ListView
+        android:id="@+id/lv_wzInfo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null" />
+
+</LinearLayout>

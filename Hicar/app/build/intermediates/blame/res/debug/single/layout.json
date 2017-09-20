@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiaorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiaorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonus.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\bonus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiaprice.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiaprice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wxresult.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\wxresult.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijia.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijia.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonusitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\bonusitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\caritem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\caritem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addressitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\addressitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commentitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\commentitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carwashdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\carwashdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_qita.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_qita.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cardetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\cardetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\feedback.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\map.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_poiresult.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\item_poiresult.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiadriver.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiadriver.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weizhangitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\weizhangitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiacurrentorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiacurrentorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_songyou.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_songyou.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myaccount.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\myaccount.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_tuoche.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_tuoche.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\giftcard.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\giftcard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_guohu.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_guohu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driverlist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\driverlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weizhang.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\weizhang.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiacurrentorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiacurrentorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_huantai.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_huantai.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueorderpay.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueorderpay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_kaisuo.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_kaisuo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\giftcardlist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\giftcardlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_biangeng.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_biangeng.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueorderlist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueorderlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addrescueback.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\addrescueback.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carwashorderpay.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\carwashorderpay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customspinner.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\customspinner.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiamapforsearch.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiamapforsearch.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueback.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueback.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weizhangdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\weizhangdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\driveritem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\driveritem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewuorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewuorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylicense.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\mylicense.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnerlistitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\spinnerlistitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiaorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiaorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customprogressdialog.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewucurrentorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewucurrentorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_view.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\guide_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_more.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\fragment_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\makerico.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\makerico.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insurancemain.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\insurancemain.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text1.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\item_text1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myorders.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\myorders.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insurance.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\insurance.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_zhengjian.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_zhengjian.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiacurrentorderlist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiacurrentorderlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xml_test.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\xml_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\addetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\giftcarditem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\giftcarditem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueordercancel.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueordercancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carwash.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\carwash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_yanche.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_yanche.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chewu_jiazhao.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\chewu_jiazhao.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\estimate.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\estimate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_kunjing.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_kunjing.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiadrivedetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiadrivedetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\share.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\membercard.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\membercard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_dadian.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_dadian.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sharepage.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\sharepage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonuslist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\bonuslist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescuecurrentorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescuecurrentorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescuebackorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescuebackorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiaordercancel.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiaordercancel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waterlist.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\waterlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bindmobile.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\bindmobile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescuebackorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescuebackorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daijiapaydetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\daijiapaydetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\changeordermobile.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\changeordermobile.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carwashorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\carwashorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\start.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addcar.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\addcar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ad_view.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\ad_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wateritem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\wateritem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carwashitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\carwashitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescuecurrentorderitem.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescuecurrentorderitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueorderdetail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueorderdetail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue_xcwx.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue_xcwx.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescueprice.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescueprice.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\charge.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\charge.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mycars.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\mycars.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rescue.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\layout\\rescue.xml"
+    }
+]

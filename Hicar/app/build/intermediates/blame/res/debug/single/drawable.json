@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start_btn.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\start_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_btn_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\detail_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_order.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\btn_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_color.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\home_btn_color.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_order_on.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\btn_order_on.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_adress_detail.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\shape_adress_detail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\share_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_corners.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\background_corners.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext_order.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\bg_edittext_order.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_order_normal.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\btn_order_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\room_rating_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\room_rating_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Hicar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_edittext.xml",
+        "source": "D:\\AndroidStudioProjects\\Hicar\\app\\src\\main\\res\\drawable\\round_edittext.xml"
+    }
+]

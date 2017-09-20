@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"  
+    android:background="@color/white" 
+     >  
+     <View android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/dark_gray"
+        />
+    <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+     android:orientation="horizontal"
+         android:paddingLeft="5sp"
+    android:paddingRight="5sp"
+    android:paddingTop="15sp"
+    android:paddingBottom="15sp" 
+    >
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginLeft="10dp"
+        android:text="王师傅"      
+        android:textSize="16sp" />    
+   
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="距离"
+        android:textColor="@color/light_black"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/txt_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="0.51"
+        android:textSize="14sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="公里"
+        android:textColor="@color/light_black"
+        android:textSize="12sp" />
+    <TextView
+      android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/light_black"
+        android:gravity="bottom|right"
+        android:layout_weight="1"
+        android:text="起步价"      
+        android:textSize="12sp" />
+     <TextView
+        android:id="@+id/txt_bid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:text="38"      
+        android:textSize="24sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/light_black"
+        android:gravity="bottom"
+        android:text="元"      
+        android:textSize="12sp" />
+    </LinearLayout>
+    <View android:layout_width="fill_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/dark_gray"
+        />
+    <View android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:background="@color/gray"
+        />
+    
+</LinearLayout>

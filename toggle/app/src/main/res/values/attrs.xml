@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <declare-styleable name="Toggle">
+         <attr name="switchBackground" format="reference"></attr>
+         <attr name="slideButtonBackground" format="reference"></attr>
+         <attr name="toggleState" format="boolean"></attr>
+     </declare-styleable>
+</resources>

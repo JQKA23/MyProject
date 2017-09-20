@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hi车</string>    
+    <string name="title">Hi车</string>
+    <string name="member">我的</string>
+    <string name="more">更多</string>
+    <string name="order">订单</string>
+    <string name="home">首页</string>
+    <string name="daijia">代驾</string>
+    <string name="rescue">救援</string>
+    <string name="chewu">车务</string>
+    <string name="xiche">洗车</string>
+    <string name="wallet">我的钱包</string>  
+    <string name="giftcard">礼品卡</string>  
+    <string name="searchwz">违章</string>  
+    <string name="chexian">车险</string>  
+    <string name="tyre">麦轮胎</string>  
+    <string name="carNo">车牌号码：</string>
+    <string name="carNoHint">请输入车牌号码</string>
+    <string name="engineNo">发动机号：</string>
+    <string name="engineNoHint">请输入发动机号</string>
+    <string name="search">查\t\t询</string>
+    <string name="tuijian">推荐好友</string> 
+    <string name="feedback">意见反馈</string>
+    <string name="price">价格表</string>
+    <string name="orderlist">我的订单</string>
+    <string name="choosedriver">司机数量</string>
+    <string name="chooserescueType">选择救援类型</string>    
+    <string name="needdriver">立即下单</string>
+    <string name="needrescue">我要救援</string>
+    <string name="tip">温馨提示</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="is_need_update">有新版本了，现在去更新?</string> 
+    <string name="hotline">客服热线</string>  
+    <string name="hotlineno">400-800-1018</string>       
+    <string name="recharge">充值</string>       
+    <string name="getvalidCode">获取验证码</string>
+    
+    <string name="errcode_success">发送成功</string>
+	<string name="errcode_cancel">发送取消</string>
+	<string name="errcode_deny">发送被拒绝</string>
+	<string name="errcode_unknown">发送返回</string>
+    <string name="aboutusTitle">关于我们</string>
+    
+    <string name="sharebonus">分享红包给好友</string>
+    <string name="comment">订单评价</string>
+    <string name="submitcomment">提交评价</string>
+    
+    <string name="contactdriver">联系司机</string>
+    <string name="aboutus">【Hi车】是壹零壹捌汽车俱乐部（北京）有限公司，自行开发的一款提供“汽车后市场”服务的综合APP，致力于为车主打造简单车生活。为车主提供优质、低价、便捷的汽车服务。【车生活】可以为您提供在线呼叫代驾服务、汽车救援服务。通过手机终端客户可以直接下单寻求需要的服务，【车生活】软件通过GPS定位，直接将呼叫中心转接到手机上。车主可以和提供服务的人员直接对接，预约达成服务。让车主享受优惠的同时，又能享受到优质贴心的服务。简单用车生活从这里开始！\n客服电话：400&#8211;800&#8211;1018\n救援专线：010&#8211;66518888</string>
+</resources>

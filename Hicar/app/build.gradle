@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:21'
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.carlife"
+        minSdkVersion 16
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/afinal_0.5_bin.jar')
+    compile files('libs/alipaySDK-20150610.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/bugly_1.1.7_release.jar')
+    compile files('libs/IndoorscapeAlbumPlugin.jar')
+    compile files('libs/libammsdk.jar')
+    compile files('libs/mframework.jar')
+    compile files('libs/org.apache.http.legacy.jar')
+    compile files('libs/pushservice-4.6.0.68.jar')
+    compile files('libs/umeng_sdk.jar')
+}

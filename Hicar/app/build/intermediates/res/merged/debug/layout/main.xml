@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:weightSum="4" >
+
+        <TextView
+            android:id="@+id/tv_homePage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/home_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/home"
+            android:textSize="13sp"
+            android:textColor="@color/homeblue" />
+
+        <TextView
+            android:id="@+id/tv_order"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/order_gray"
+            android:gravity="center_horizontal"
+            android:text="@string/order"
+            android:textSize="13sp"
+            android:textColor="@color/light_black" />
+
+        <TextView
+            android:id="@+id/tv_mine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/mine_gray"
+            android:gravity="center_horizontal"
+            android:text="@string/member"
+            android:textSize="13sp"
+            android:textColor="@color/light_black" />
+
+        <TextView
+            android:id="@+id/tv_more"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/more_gray"
+            android:gravity="center_horizontal"
+            android:text="@string/more"
+            android:textSize="13sp"
+            android:textColor="@color/light_black" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_bottom">
+    </FrameLayout>
+
+</RelativeLayout>

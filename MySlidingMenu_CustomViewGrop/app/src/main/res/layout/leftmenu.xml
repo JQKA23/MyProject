@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="240dp"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:background="@mipmap/menu_bg"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="新闻"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_news"
+            android:id="@+id/tv_news" />
+        <TextView
+            android:text="订阅"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_read"
+            android:id="@+id/tv_read" />
+        <TextView
+            android:text="本地"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_local"
+            android:id="@+id/tv_local" />
+        <TextView
+            android:text="跟帖"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_ties"
+            android:id="@+id/tv_ties" />
+        <TextView
+            android:text="图片"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_pics"
+            android:id="@+id/tv_pics" />
+        <TextView
+            android:text="话题"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_ugc"
+            android:id="@+id/tv_ugc" />
+        <TextView
+            android:text="投票"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_vote"
+            android:id="@+id/tv_vote" />
+        <TextView
+            android:text="聚合阅读"
+            style="@style/tabStyle"
+            android:drawableLeft="@mipmap/tab_focus"
+            android:id="@+id/tv_focus" />
+    </LinearLayout>
+</ScrollView>
+
