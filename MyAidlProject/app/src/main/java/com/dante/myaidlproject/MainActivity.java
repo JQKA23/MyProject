@@ -1,4 +1,5 @@
 package com.dante.myaidlproject;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
@@ -6,9 +7,11 @@ import android.support.v7.app.AppCompatActivity;
  * Created by Administrator on 2017/9/20.
  */
 public class MainActivity extends AppCompatActivity {
+    Intent i=new Intent(this,MyService.class);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        startService(i);
     }
 
     @Override
@@ -29,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        stopService(i);
     }
 
     @Override
